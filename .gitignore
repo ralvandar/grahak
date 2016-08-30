@@ -8,6 +8,9 @@
 # Java class files
 *.class
 
+# Native C files
+.c
+
 # Generated files
 bin/
 gen/
